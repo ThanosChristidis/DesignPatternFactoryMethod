@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\PrinterWithFactoryMethod\PrinterWithFactoryMethod\bin\Debug\PrinterWithFactoryMethod.exe.config
+C:\Users\User\source\repos\PrinterWithFactoryMethod\PrinterWithFactoryMethod\bin\Debug\PrinterWithFactoryMethod.exe
+C:\Users\User\source\repos\PrinterWithFactoryMethod\PrinterWithFactoryMethod\bin\Debug\PrinterWithFactoryMethod.pdb
+C:\Users\User\source\repos\PrinterWithFactoryMethod\PrinterWithFactoryMethod\obj\Debug\PrinterWithFactoryMethod.csprojAssemblyReference.cache
+C:\Users\User\source\repos\PrinterWithFactoryMethod\PrinterWithFactoryMethod\obj\Debug\PrinterWithFactoryMethod.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\PrinterWithFactoryMethod\PrinterWithFactoryMethod\obj\Debug\PrinterWithFactoryMethod.exe
+C:\Users\User\source\repos\PrinterWithFactoryMethod\PrinterWithFactoryMethod\obj\Debug\PrinterWithFactoryMethod.pdb
